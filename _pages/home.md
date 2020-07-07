@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Michael V Bronstein - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Michael V Bronstein."
 sitemap: false
 permalink: /
 ---
