@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Michael V Bronstein - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Michael V Bronstein -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -9,9 +9,9 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+## Selected Publications
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=1HNW9EQAAAAJ&hl=en&oi=sra))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
