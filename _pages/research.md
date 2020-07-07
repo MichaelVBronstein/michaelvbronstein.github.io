@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "Michael V Bronstein - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Michael V Bronstein -- Research"
 sitemap: false
 permalink: /research/
 ---
