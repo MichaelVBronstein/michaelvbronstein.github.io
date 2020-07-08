@@ -1,0 +1,1 @@
+Images here must be 1400 X 700 pixels to work with the slider
