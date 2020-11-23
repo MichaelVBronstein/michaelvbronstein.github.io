@@ -15,7 +15,7 @@ permalink: /
 
 Hypotheses Tested. Data Analyzed. Insights Communicated. Beliefs Revised. This is the rhythm of my professional life. 
 
-I honed this rhythm while completing my Ph.D. in Psychology at Yale University, building on the love of learning I developed at Washington and Lee University (where I graduated Summa Cum Laude with a B.S. in Psychology).
+I honed this rhythm while completing my Ph.D. in Psychology at Yale University, building on my undergraduate education at Washington and Lee University (where I graduated Summa Cum Laude with a B.S. in Psychology).
 
 I revel in complex problems, have a strong growth mindset, and thrive in fast-paced environments that require a balance of team-based and independent work.
 
