@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Selected Publications
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=1HNW9EQAAAAJ&hl=en&oi=sra))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=tIvFLl0AAAAJ&hl=en&oi=ao))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}

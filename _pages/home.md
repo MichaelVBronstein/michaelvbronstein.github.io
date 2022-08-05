@@ -13,11 +13,8 @@ permalink: /
 
 # About Me
 
-Hypotheses Tested. Data Analyzed. Insights Communicated. Beliefs Revised. This is the rhythm of my professional life. 
-
-I honed this rhythm while completing my Ph.D. in Psychology at Yale University, building on my undergraduate education at Washington and Lee University (where I graduated Summa Cum Laude with a B.S. in Psychology).
-
-I revel in complex problems, have a strong growth mindset, and thrive in fast-paced environments that require a balance of team-based and independent work.
+Humans believe a plethora of things that are not true. In the general population, this tendency reduces vaccination rates and encourages violence. It also plays a role in multiple psychopathologies, including depression, schizophrenia, and anorexia. My research uses data science methods -- including causal and predictive machine learning -- to elucidate cognitive and affective pathways that
+create and maintain discrepancies between beliefs and reality. I began this work at Yale, where I received my Ph.D. in Psychology, and have continued it as a postdoc at the University of Minnesota. Hypotheses Tested. Data Analyzed. Insights Communicated. Beliefs Revised.
 
 To learn more about my work, please see my <a href="{{ site.url }}{{ site.baseurl }}/research">research</a> and <a href="{{ site.url }}{{ site.baseurl }}/publications">publications</a> pages.    
 
