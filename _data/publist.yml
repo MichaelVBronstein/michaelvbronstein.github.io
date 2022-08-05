@@ -1,3 +1,35 @@
+- title: "Developing a novel assessment of interpretation flexibility: Reliability,
+validity and clinical implications"
+  image: picBADE.jpg
+  description: A novel, picture-based belief revision task. 
+  authors: Wisteria Deng, Jonas Everaert, Mackenzie Creighton, Michael V Bronstein, Tyrone Cannon, Jutta Joormann
+  link:
+    url: https://doi.org/10.1016/j.paid.2022.111548
+    display:  Personality and Individual Differences
+  highlight: 0
+  news2:
+ 
+- title: "Willingness to vaccinate against SARS-CoV-2: The role of reasoning biases and conspiracist ideation"
+  image: Vax.jpg
+  description: We used Greedy Fast Causal Inference to reveal emperically-plausible causal pathways connecting vaccine hesitancy, paranoia, vaccine-related conspiracy theories, and reasoning biases. 
+  authors: Michael V Bronstein, Erich Kummerfeld, Angus MacDonald III, Sophia Vinogradov
+  link:
+    url:  https://doi.org/10.1016/j.vaccine.2021.11.079
+    display:  Vaccine
+  highlight: 1
+  news2:
+
+
+- title: "Biased and inflexible interpretations of ambiguous social situations: Associations with eating disorder symptoms and socioemotional functioning"
+  image: Plate.jpg
+  description: We used causal discovery analysis to identify emperically-plausible causal relations between eating disorder symptoms and aspects of interpersonal functioning and habitual emotion regulation. 
+  authors: Michael V Bronstein, Jonas Everaert, Erich Kummerfeld, Ann F Haynos, Sophia Vinogradov
+  link:
+    url:  https://doi.org/10.1002/eat.23688
+    display:  International Journal of Eating Disorders
+  highlight: 1
+  news2:
+
 - title: "Education alone is insufficient to combat online medical misinformation"
   image: Education.jpg
   description: We comment on the utility of education and other tools to fight online medical misinformation. 
@@ -46,7 +78,7 @@
   link:
     url: https://www.sciencedirect.com/science/article/pii/S000579671830202X?casa_token=u0ZcxeY5ffkAAAAA:v6-pTP8LAf8ubMT7--9TPA2ERDysZMXdYEyqoKCY2ZFdVDdNnDmRDqchoPpXQLEGZqCyuwzsWnw_
     display:  Behaviour Research and Therapy
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Dual-process theory, conflict processing, and delusional belief"
