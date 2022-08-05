@@ -26,16 +26,16 @@ permalink: /research/
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BizCardFront.jpg" alt="Slide 1" />
         </div>
 	<div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/FakeNews.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/VaxGFCI.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Dampening.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/FakeNews.jpg" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Conflict.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SINetwork.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Dampening.jpg" alt="Slide 5" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Tinted.jpg" alt="Slide 6" />
