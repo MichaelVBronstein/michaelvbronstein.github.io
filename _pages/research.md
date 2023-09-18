@@ -51,9 +51,9 @@ permalink: /research/
   </a>
 </div>
 
-I am fascinated by the fact that people frequently believe things that are not true, and often continue to believe these things in the face of evidence against them. This is true of multiple populations --- people with psychosis who believe delusions, people from the general population who believe fake news or conspiracy theories and therefore reject vaccines, and people who endorse suicidal ideation and see themselves incorrectly as a burden to others. My research aims to better specify cognitive pathways that create and maintain discrepancies between these beliefs and reality, thereby providing critical information for the development of more effective, evidence-based interventions that address these beliefs and thereby improve human health and wellbeing. Ultimately, I hope to move toward a world where the deleterious effects of fixed, false beliefs are minimized.
+We are fascinated by the fact that people frequently believe things that are not true, and often continue to believe these things in the face of evidence against them. This is true of multiple populations --- people with psychosis who believe delusions, people from the general population who believe fake news or conspiracy theories and therefore reject vaccines, and people who endorse suicidal ideation and see themselves incorrectly as a burden to others. My research aims to better specify cognitive pathways that create and maintain discrepancies between these beliefs and reality, thereby providing critical information for the development of more effective, evidence-based interventions that address these beliefs to improve human health and wellbeing. Ultimately, I hope to move toward a world where the deleterious effects of fixed, false beliefs are minimized.
 
 
-For information about specific projects I've worked on, please click here: <a href="{{ site.url }}{{ site.baseurl }}/publications">publications</a>
+For information about specific projects my lab has worked on, please click here: <a href="{{ site.url }}{{ site.baseurl }}/publications">publications</a>
 
 
