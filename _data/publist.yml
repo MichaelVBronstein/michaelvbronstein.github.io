@@ -1,3 +1,33 @@
+- title: "Social Interpretation Inflexibility and Functioning: Associations with Symptoms and Stress"
+  image: picBADE.jpg
+  description: inflexibility is linked to lower social functioning, especially in the presence of paranoia, affective symptoms, and stress. 
+  authors: Wisteria Deng, Jonas Everaert, Michael V Bronstein, Jutta Joormann, Tyrone Cannon
+  link:
+    url: https://doi.org/10.1521/jscp.2023.42.1.29
+    display:  Journal of Social and Clinical Psychology
+  highlight: 0
+  news2:
+
+- title: "Emotion Regulation in the Classroom: A Network Approach to Model Relations Among Emotion Regulation Difficulties, Engagement to Learn, and Relationships with Peers and Teachers"
+  image: Education.jpg
+  description: Relations between different emotion regulation strategies in youth at school in Flemish secondary schools.
+  authors: Debbie De Neve, Michael V Bronstein, An Leroy, Alex Truyts, Jonas Everaert
+  link:
+    url: https://link.springer.com/article/10.1007/s10964-022-01678-2
+    display:  Journal of Youth and Adolescence
+  highlight: 0
+  news2:
+
+- title: "Social Interpretation Inflexibility Moderates Emotional Reactions to Social Situations in Children and Adolescents"
+  image: picBADE.jpg
+  description: The Adolescent BADE Task debuts in this daily diary study.
+  authors: Reuma Gadassi Polack, Michael V Bronstein, Marcia Questel, Audrey Edelman, Sophia Vinogradov, Hedy Kober, Jutta Joormann, Jonas Everaert
+  link:
+    url: https://doi:10.1017/S0954579423000834
+    display:  Development and Psychopathology
+  highlight: 1
+  news2:
+
 - title: "Developing a novel assessment of interpretation flexibility: Reliability,
 validity and clinical implications"
   image: picBADE.jpg
@@ -18,7 +48,6 @@ validity and clinical implications"
     display:  Vaccine
   highlight: 1
   news2:
-
 
 - title: "Biased and inflexible interpretations of ambiguous social situations: Associations with eating disorder symptoms and socioemotional functioning"
   image: Plate.jpg
